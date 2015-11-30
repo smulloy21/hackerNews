@@ -1,4 +1,4 @@
-var app = angular.module('redditClone', []);
+var app = angular.module('hackerNews', []);
 app.factory('posts', [function(){
   var o = {
     posts: [
